@@ -1,3 +1,4 @@
+-- lua/plugins/statusline.lua
 return {
   'nvim-lualine/lualine.nvim',
   dependencies = {

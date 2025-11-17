@@ -1,3 +1,4 @@
+-- lua/plugins/tools.lua
 return {
 	{ "windwp/nvim-autopairs" },
 	{ "numToStr/Comment.nvim" },

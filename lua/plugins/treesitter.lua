@@ -6,12 +6,18 @@ return {
 		build = ":TSUpdate",
 		opts = {
 			ensure_installed = {
-				"lua",
 				"vim",
+        "vimdoc",
+        "lua",
+        "luadoc",
+        "lua_patterns",
+        "luau"
 			},
+      sync_install = false,
 			auto_install = true,
-			hightlight = { enable = true },
-			indent = { enable = true },
+			hightlight = {
+        enable = true
+      },
 		},
 	},
 	{ "nvim-treesitter/nvim-treesitter-textobjects" },

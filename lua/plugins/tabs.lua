@@ -1,3 +1,4 @@
+-- lua/plugins/tabs.lua
 return {
 	{
 		"akinsho/bufferline.nvim",
