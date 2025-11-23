@@ -1,3 +1,4 @@
+-- lua/plugins/visual-columns.lua
 return {
   {
     'lukas-reineke/virt-column.nvim',

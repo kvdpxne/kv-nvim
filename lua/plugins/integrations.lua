@@ -1,3 +1,4 @@
+-- lua/plugins/integrations.lua
 return {
 	-- PHP i Laravel
 	{

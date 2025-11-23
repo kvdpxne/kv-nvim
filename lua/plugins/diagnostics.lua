@@ -1,3 +1,4 @@
+-- lua/plugins/diagnostics.lua
 return {
   'nvimtools/none-ls.nvim',
   config = function()

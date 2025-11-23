@@ -1,3 +1,4 @@
+-- lua/plugins/finder.lua
 return {
 	{
 		"nvim-telescope/telescope.nvim",

@@ -10,7 +10,6 @@ return {
       local bufferline = require("bufferline")
       bufferline.setup({
         options = {
-          mode = 'tabs',
           style_preset = bufferline.style_preset.no_italic,
           buffer_close_icon = '',
           offsets = {
